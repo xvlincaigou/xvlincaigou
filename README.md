@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![xvlincaigou's GitHub stats](https://github-readme-stats.vercel.app/api?username=xvlincaigou&show_icons=true&theme=radical)
 <!--
 **xvlincaigou/xvlincaigou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
